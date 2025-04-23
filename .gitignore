@@ -1,0 +1,10 @@
+/venv_mr_league_cloud
+service_account.json
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
