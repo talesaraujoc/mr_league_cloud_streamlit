@@ -2,6 +2,9 @@
 /tests
 service_account.json
 
+.devcontainer/
+
+
 # Ignorar cache do Python
 __pycache__/
 *.pyc
