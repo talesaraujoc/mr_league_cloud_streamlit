@@ -184,4 +184,4 @@ if st.button("✅ Registrar Partida"):
     for row in all_data:
         sheet_main.append_row(row)
 
-    st.success("✅ Todos os jogadores da partida foram registrados com sucesso!")
+    st.success("✅ Todos os dados da partida foram registrados com sucesso!")
