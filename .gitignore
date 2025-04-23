@@ -1,4 +1,5 @@
 /venv_mr_league_cloud
+/tests
 service_account.json
 
 # Ignorar cache do Python
